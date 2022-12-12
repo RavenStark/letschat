@@ -1,0 +1,39 @@
+body {
+   
+     background-color: aliceblue;
+
+}
+
+.output{
+text-align: center;
+color:white;
+background-color:aqua;
+width: 50%;
+height: 100%;
+border-radius: 5px ;
+}
+ 
+
+#img1 {
+width: 100%;
+opacity: 50%;
+
+}
+
+.input {
+
+
+width: 50%;
+background-color: palevioletred;
+border-radius: 5px;
+
+}
+
+#btnLogin {
+     border-radius: 10px;
+     color: aliceblue;
+     background-color: maroon;
+}
+#input1 {
+     border-radius: 10px;
+}
